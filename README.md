@@ -1,2 +1,2 @@
 # .github
-README for organization profile.
+Welcome to the project archive for the Computer Club!
