@@ -1,2 +1,2 @@
 # .github
-Welcome to the project archive for the Computer Club!
+This repository contains the profile README. Do NOT delete this repository.
